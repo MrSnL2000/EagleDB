@@ -2,4 +2,4 @@
 This Is My Firs Whatsapp Boy...🔥❤️
 
 # Contact Me
- 🥎On whatsapp +94713023445
+ 🥎On whatsapp wa.me/+94713023445
