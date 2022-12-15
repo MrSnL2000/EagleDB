@@ -1,5 +1,5 @@
-# _Raganork-multi-device_
-## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)_
+# EagleDb
+## _Multi device whatsapp bot created with [@MrSnL2000/EagleDB](https://github.com/MrSnL2000/EagleDB)_
 #### _(i) No need of forking this repository_
   
 <div align="center">
